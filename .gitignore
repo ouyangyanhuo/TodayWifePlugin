@@ -1,0 +1,27 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+venv/
+.env/
+
+# 插件缓存
+cache/
+
+# 日志文件
+*.log
+
+# 其他
+*.bak
+*.swp
